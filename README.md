@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="https://github.com/AD-TECH75.png" width="140" style="border-radius:50%;" />
-
 </div>
 
 ---
